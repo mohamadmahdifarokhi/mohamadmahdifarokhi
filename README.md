@@ -1,3 +1,4 @@
+<img src="M4Fo.gif" align="right" alt="">
 # 💫 About Me:
 Hi 👋, I'm Mti
 
