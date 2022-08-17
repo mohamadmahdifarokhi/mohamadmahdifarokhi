@@ -1,4 +1,4 @@
-<img src="M4Fo.gif" align="right" alt="" width="500" height="600">
+<img src="M4Fo.gif" align="right" alt="" width="400" height="300">
 # 💫 About Me:
 Hi 👋, I'm Mti
 
