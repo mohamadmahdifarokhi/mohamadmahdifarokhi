@@ -1,4 +1,4 @@
-<img src="M4Fo.gif" alt="">
+<img src="M4Fo.gif" align="right" alt="">
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 <h3 align="left">Languages and Tools:</h3>
