@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mohamadmahdifarokhi/mohamadmahdifarokhi/blob/output/snake.svg" alt="Snake animation" />
-
-###
